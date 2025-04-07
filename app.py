@@ -36,3 +36,4 @@ if nmero:
     except ValueError:
         st.write("Por favor ingresa un número válido.")
 st.image("https://upload.wikimedia.org/wikipedia/commons/1/12/Happy_Shrek_%28cropped%29.jpg")
+st.logo(image=("gavaldi.png"))
